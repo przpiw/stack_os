@@ -1,0 +1,12 @@
+{
+  "name": "stack_os",
+  "version": "1.0.0",
+  "description": "Detects running OS",
+  "main": "stack_os.js",
+  "repository": "https://github.com/przpiw/stack_os",
+  "author": "Damian Piwowarczyk",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
