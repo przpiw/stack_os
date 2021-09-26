@@ -1,5 +1,5 @@
 {
-  "name": "stack_os",
+  "name": "stack_os_demo",
   "version": "1.0.0",
   "description": "Detects running OS",
   "main": "stack_os.js",

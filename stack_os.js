@@ -58,7 +58,7 @@
  
      // Chalk strings
      const out = {
-       os: chalk.green( this.info.os ),
+       os: chalk.red( this.info.os ),
        arch: chalk.grey( this.info.arch ),
        cores: `${cores} Core`,
        cpu: chalk.grey(this.info.cpus.model),
